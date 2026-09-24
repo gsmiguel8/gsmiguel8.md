@@ -1,11 +1,16 @@
-# Miguel Ángel | Desarrollador Web
+<h1 align="center"> Hola   soy Miguel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+Student;Always+learning+new+things" />
+</a>
+</p>
 
 
 > "No todos aquellos que trabajan duro tienen éxito...  pero todos los que tienen éxito han trabajado duro." — Genki Kamogawa
 
 ---
 
-##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 👨‍💻 Sobre mí
+##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Sobre mí
 
 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y apasionado por la construcción de interfaces limpias, el backend escalable y los entornos *Linux*.
 
@@ -59,7 +64,6 @@ Anteriormente exploraba ~~HTML puro con css~~, pero ahora me centro en terminar 
 - [ ] Trabajar de analista de datos
 
 ---
-
 
 
 ## 🚀 Snippet de Ejemplo
